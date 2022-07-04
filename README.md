@@ -17,3 +17,26 @@ The ESP32-DEV board is based on **ESP32 WROOM32D** module of the _espressif_. Th
 * 40 Pin GPIO Header
 * On-board Reset Button
  
+## System Requirement
+* A PC with Windows 7 or later / Linux / Mac
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* A brain to write code...
+
+## Adding the ESP32 board in Arduino IDE
+
+* Open _Arduino IDE_
+* Go to _File -> Preferences_
+* Copy this _[https://dl.espressif.com/dl/package_esp32_index.json](https://dl.espressif.com/dl/package_esp32_index.json)_ URL
+* Then Go to _Tools -> Boards -> Board Manager_
+* Serach For _ESP32_
+* Install the board package.
+* Reastart the Arduino IDE if required
+* Select _Olimex-EVB_ from the board
+
+## Libraries Required
+
+* SD
+* ETH
+* WiFi
+* SPI
+* Wire

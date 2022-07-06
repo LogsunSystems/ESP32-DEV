@@ -14,7 +14,7 @@
                  - GPIO Pin 6 - 11 are connected to Internal SPI Flash hence can't 
                    be used
 * Date:         06th October 2021
-* author:       Shreyas D.
+* author:       Shreyas Deshpande.
 */
 
 #include "GPIO_ESP32.h""

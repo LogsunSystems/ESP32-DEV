@@ -4,8 +4,9 @@
 *
 * Platform:      ESP32-Dev Board
 * Title:         Relay Test
-* Description:   This code is to test therelays on the ESP32-DEV board
-
+* Description:   This code is to test the relays on the ESP32-DEV board
+*                The relays are Connected to IO32 and IO33 of the ESP-32.       
+*
 * Date:         13th October 2021
 * author:       Shreyas Deshpande
 */

@@ -1,5 +1,5 @@
 # ESP32-DEV
-![](.git/.img/ESP32-DEV.png)
+![](.img/ESP32-DEV.png)
 ## Introduction
 
 The ESP32-DEV board is based on **ESP32 WROOM32D** module from the _espressif_. The board is suitable for one who want to experiment on the _ESP32_ chip. The board has many on-board interfacing options available. The salient features of the board are as following,
